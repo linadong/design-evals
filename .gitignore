@@ -1,0 +1,13 @@
+node_modules/
+.env
+.env.*
+!.env.example
+.vercel/
+.openai/
+output/
+test-results/
+playwright-report/
+*.log
+.DS_Store
+*.pem
+*.key
